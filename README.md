@@ -92,7 +92,7 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 # Configure environment
-cp .env.example .env
+cp .env
 # Edit .env and optionally add GROQ_API_KEY
 ```
 
